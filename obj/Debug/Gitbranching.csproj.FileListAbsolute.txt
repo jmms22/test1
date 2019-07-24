@@ -1,0 +1,7 @@
+C:\Users\igxtraining\source\repos\Gitbranching\bin\Debug\Gitbranching.exe.config
+C:\Users\igxtraining\source\repos\Gitbranching\bin\Debug\Gitbranching.exe
+C:\Users\igxtraining\source\repos\Gitbranching\bin\Debug\Gitbranching.pdb
+C:\Users\igxtraining\source\repos\Gitbranching\obj\Debug\Gitbranching.csprojAssemblyReference.cache
+C:\Users\igxtraining\source\repos\Gitbranching\obj\Debug\Gitbranching.csproj.CoreCompileInputs.cache
+C:\Users\igxtraining\source\repos\Gitbranching\obj\Debug\Gitbranching.exe
+C:\Users\igxtraining\source\repos\Gitbranching\obj\Debug\Gitbranching.pdb
