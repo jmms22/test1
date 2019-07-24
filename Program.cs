@@ -12,7 +12,7 @@ namespace Gitbranching
         {
             Console.WriteLine("Hello World 2");
 
-            for (int i = 1; i<11; i++)
+            for (int i = 1; i<21; i++)
             {
                 Console.WriteLine(i);
             }
